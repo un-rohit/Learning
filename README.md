@@ -1,3 +1,3 @@
 # Learning
 thsi is my learing repository <br>
- author -rohit jkuamr
+ author -Rohit Kuamr
